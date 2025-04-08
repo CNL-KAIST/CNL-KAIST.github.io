@@ -18,5 +18,5 @@ title: Schedule
 | 12:00–13:30 | 🍽️ **Lunch break**                                                                                |
 | 13:30–16:00 | **Oral presentation** <br>                                                            |
 | 16:00–16:30 | ☕ **Coffee break**                                                                                |
-| 16:30–18:00 | **Poster session:**                          |
+| 16:30–18:00 | **Poster session**                          |
 | 18:00–18:30 | Closing remarks
