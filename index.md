@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+title: Workshop on Compuatational Nanoelectronics
+subtitle: Venue: KAIST, Date: 7/23
+cover-img: /assets/img/cover.jpg
 ---
 
 <br/>
