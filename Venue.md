@@ -6,7 +6,7 @@ title: Event Information
 <h2>📅 Date & Time</h2>
 <p>
   <strong>Date:</strong> July 23, 2025<br>
-  <strong>Time:</strong> 09:00 – 17:30 (KST)
+  <strong>Time:</strong> 09:00 – 18:30 (KST)
 </p>
 
 <hr style="margin: 2em 0;">
