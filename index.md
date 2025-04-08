@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop on Compuatational Nanoelectronics
-subtitle: Venue: KAIST, Date: 7/23
+subtitle: July 23, 2025, KAIST
 cover-img: /assets/img/cover.jpg
 ---
 
