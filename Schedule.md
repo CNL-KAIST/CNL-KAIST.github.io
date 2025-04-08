@@ -3,9 +3,6 @@ layout: page
 title: Schedule
 ---
 
-All times are local [Vancouver time](https://www.timeanddate.com/worldclock/canada/vancouver).  
-See also the official NeurIPS workshop [schedule](https://neurips.cc/).
-
 ---
 
 ### 🕒 Schedule
