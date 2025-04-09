@@ -19,7 +19,7 @@ title: Event Information
 </p>
 
 <p>
-  <a href="[https://maps.app.goo.gl/YtqjWZbGQZTV6Axz6](https://www.google.com/maps/place/Korea+Advanced+Institute+of+Science+%26+Technology+(KAIST),+Daejeon/data=!3m1!4b1!4m6!3m5!1s0x35654bb616ae884f:0x9fa607e06759a2c9!8m2!3d36.3721427!4d127.36039!16zL20vMDRiMzU?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D)" target="_blank">
+  <a href="https://www.google.com/maps/place/Korea+Advanced+Institute+of+Science+%26+Technology+(KAIST),+Daejeon/data=!3m1!4b1!4m6!3m5!1s0x35654bb616ae884f:0x9fa607e06759a2c9!8m2!3d36.3721427!4d127.36039!16zL20vMDRiMzU?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank">
     📍 View on Google Maps
   </a>
 </p>
