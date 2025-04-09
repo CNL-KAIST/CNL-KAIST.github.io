@@ -10,12 +10,13 @@ title: Event Information
 </p>
 
 <hr style="margin: 2em 0;">
+
+<h2>📍 Venue</h2>
 <!-- 이미지 삽입 -->
 <p>
   <img src="/assets/img/KAIST_i.png" alt="Map to KAIST" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
 </p>
 
-<h2>📍 Venue</h2>
 <p>
   <strong>KAIST (Korea Advanced Institute of Science and Technology)</strong><br>
   Building E3-2 (Information & Electronics Building)<br>
