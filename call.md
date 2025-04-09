@@ -3,8 +3,6 @@ layout: page
 title: Call for Papers
 ---
 
-## 📢 Call for Papers
-
 We invite submissions for our upcoming workshop. Please follow the guidelines below:
 
 ---
