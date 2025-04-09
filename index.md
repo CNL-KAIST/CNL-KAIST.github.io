@@ -15,7 +15,15 @@ The scope of the workshop includes molecular dynamics (MD), density functional t
 
 Through invited talks from leading experts and contributed presentations from the community, WCN 2025 will explore both theoretical developments and practical applications, with the goal of accelerating research in this rapidly evolving field.
 
+## Participating Labs
+
+- [Computational Nanoelectronics Lab – Prof. Mincheol Shin (KAIST)](https://cnl.kaist.ac.kr/)
+- [Nano Computing Research Lab – Prof. Yong-Hoon Kim (KAIST)](https://nanocore.kaist.ac.kr/)
+- [ExDRL – Prof. Jiweon Jang (Yonsei University)](https://sites.google.com/a/yonsei.ac.kr/exdrl/)
+- [SDSL – Prof. Sungmin Hong (GIST)](https://sites.google.com/view/gist-sdsl)
+- [Jeong Research Group – Prof. Changwook Jeong (UNIST)](https://sites.google.com/view/jeong-research-group/)
+- [SDM Lab – Prof. Jaehyun Lee (Pusan National University)](https://sites.google.com/view/sdmlab)
+
 ## WCN 2025
 
-The Workshop on computational nanoelectronics workshop 2025 will be held on July 23, 2025 at KAIST, Daejeon, South Korea. The workshop will feature in-person sessions, including keynotes, contributed talks, and panel discussions.
-
+The Workshop on Computational Nanoelectronics 2025 will be held on **July 23, 2025** at **KAIST**, Daejeon, South Korea. The workshop will feature in-person sessions, including keynotes, contributed talks, and panel discussions.
