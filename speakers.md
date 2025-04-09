@@ -3,7 +3,6 @@ layout: page
 title: Speakers
 ---
 
-<h2>Speakers</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
 
   <!-- Speaker 1 -->
