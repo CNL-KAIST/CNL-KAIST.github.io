@@ -35,10 +35,10 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "ieggiegg@kaist.ac.kr"
+  # facebook: seokho.son.korea
+  github: CNL-KAIST
+  # linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
@@ -67,7 +67,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "https://cnl.kaist.ac.kr/"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
