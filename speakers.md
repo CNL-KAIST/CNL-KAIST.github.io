@@ -8,7 +8,7 @@ title: Speakers
 
   <!-- Speaker 1 -->
   <div style="text-align: center; width: 250px;">
-    <img src="/assets/img/mshin.PNG" alt="Mincheol Shin" style="width: 150px; height: 180px; border-radius: 50%;">
+    <img src="/assets/img/mshin.PNG" alt="Mincheol Shin" style="width: 150px; height: 190px; border-radius: 50%;">
     <h3>Mincheol Shin (KAIST)</h3>
     <p><strong>"Quantum Transport in Nanoscale Devices: From Ballistic Conduction to Tunneling Effects"</strong></p>
     <p>Exploring electron transport phenomena in low-dimensional systems and their implications for modern electronics.</p>
