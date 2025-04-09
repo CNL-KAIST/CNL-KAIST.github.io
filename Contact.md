@@ -3,8 +3,6 @@ layout: page
 title: Contact
 ---
 
-## 📞 Contact
-
 If you have any questions, feel free to reach out:
 
 - **Mincheol Shin**  
