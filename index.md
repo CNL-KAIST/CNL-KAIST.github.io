@@ -18,11 +18,11 @@ Through invited talks from leading experts and contributed presentations from th
 ## Participating Labs
 
 - [Computational Nanoelectronics Lab – Prof. Mincheol Shin (KAIST)](https://cnl.kaist.ac.kr/)
-- [Nano Computing Research Lab – Prof. Yong-Hoon Kim (KAIST)](https://nanocore.kaist.ac.kr/)
-- [ExDRL – Prof. Jiweon Jang (Yonsei University)](https://sites.google.com/a/yonsei.ac.kr/exdrl/)
-- [SDSL – Prof. Sungmin Hong (GIST)](https://sites.google.com/view/gist-sdsl)
-- [Jeong Research Group – Prof. Changwook Jeong (UNIST)](https://sites.google.com/view/jeong-research-group/)
-- [SDM Lab – Prof. Jaehyun Lee (Pusan National University)](https://sites.google.com/view/sdmlab)
+- [Atomic-Scale Device Simulation Lab – Prof. Yong-Hoon Kim (KAIST)](https://nanocore.kaist.ac.kr/)
+- [Exploratory Device Research Lab – Prof. Jiweon Jang (Yonsei University)](https://sites.google.com/a/yonsei.ac.kr/exdrl/)
+- [Semiconductor Device Simulation Lab – Prof. Sungmin Hong (GIST)](https://sites.google.com/view/gist-sdsl)
+- [Changwook Jeong Research Group – Prof. Changwook Jeong (UNIST)](https://sites.google.com/view/jeong-research-group/)
+- [Semiconductor Device Modeling Lab – Prof. Jaehyun Lee (Pusan National University)](https://sites.google.com/view/sdmlab)
 
 ## WCN 2025
 
