@@ -15,6 +15,10 @@ The scope of the workshop includes molecular dynamics (MD), density functional t
 
 Through invited talks from leading experts and contributed presentations from the community, WCN 2025 will explore both theoretical developments and practical applications, with the goal of accelerating research in this rapidly evolving field.
 
+## Participating Companies
+- **Samsung Electronics** – Leading innovation in semiconductor devices and computational modeling.
+- **Synopsys** – Advancing EDA tools and TCAD simulations for next-generation semiconductor technology.
+
 ## Participating Labs
 
 - [Computational Nanoelectronics Lab – Prof. Mincheol Shin (KAIST)](https://cnl.kaist.ac.kr/)
