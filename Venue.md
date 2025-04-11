@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Event Information
+title: ''
 ---
 
-<h2>📅 Date & Time</h2>
+<h2> 일시 </h2>Date
 <p>
-  <strong>Date:</strong> July 23, 2025<br>
-  <strong>Time:</strong> 09:00 – 18:30 (KST)
+  2025.07.23 (수) 11:00 - 18:00
 </p>
 
 <hr style="margin: 2em 0;">
 
-<h2>📍 Venue</h2>
+<h2> 징소 </h2>
 <!-- 이미지 삽입 -->
 <p>
   <img src="/assets/img/KAIST_i.png" alt="Map to KAIST" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
