@@ -1,9 +1,8 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: >
-  제 1회 한국 계산전자공학 학술대회  
-  <span style="font-size:0.75em; color:#555;">The 1st Korean Workshop on Computational Electronics</span>
+title: 제 1회 한국 계산전자공학 학술대회
+subtitle: The 1st Korean Workshop on Computational Electronics
 
 # [수정필요] 간단한 사이트 설명
 description: Acedemic Website of Seokho Son
@@ -14,11 +13,11 @@ author: Korean Workshop on Computational Electronics
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Call for Papers: "call"
-  Venue & Date: "Venue"
+  등록 : "call"
+  프로그램 : "Schedule"
+  장소 및 시간 : "Venue"
   Invited Speakers: "speakers"
-  Schedule: "Schedule"
-  Contact: "Contact"
+  연락처 : "Contact"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
