@@ -10,6 +10,10 @@ layout: page
 
 반도체 소자 크기가 지속적으로 축소되고 있고, 또한 신개념, 신기능, 신소재 소자에 대한 연구 개발이 필요해짐에 따라 물리 기반의 모델링 및 시뮬레이션의 중요성이 더욱 부각되고 있습니다. 이에 관련 산업 발전에 있어 계산전자공학 분야의 선도적이고 핵심적인 역할에 대한 기대감이 커지고 있습니다.
 
-## WCN 2025
+제 1회 계산전자공학 학술대회 개최를 통하여 국내 커뮤니티를 활성화하고 확장하는 기회를 가지고자 하오니 관련 연구자들의 많은 참여를 부탁드립니다.
 
-The Workshop on Computational Nanoelectronics 2025 will be held on **July 23, 2025** at **KAIST**, Daejeon, South Korea. The workshop will feature in-person sessions, including keynotes, contributed talks, and panel discussions.
+## 학술 주제:
+
+- 준고전적 및 양자역학적 전하/열/스핀 수송
+- 반도체/신소재/뉴로모픽 로직 소자 및 메모리 소자 시뮬레이션
+- 모델링 알고리즘, 수치해석적 기법, 전산 기법 등
