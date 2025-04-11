@@ -917,3 +917,11 @@ pre {
   font-size: 1rem;
 }
 
+.navbar-custom .container,
+.navbar-custom .container-md {
+  max-width: 1200px; /* 너비 제한 (원하는 값으로 조절) */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
