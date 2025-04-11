@@ -8,7 +8,7 @@ title: ''
 <!-- <p>
   <img src="/assets/img/KAIST_i.png" alt="Map to KAIST" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
 </p> -->
-
+<br>
 ---
 <h3> 고속버스</h3>
 <ul>
