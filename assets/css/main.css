@@ -917,10 +917,3 @@ pre {
   font-size: 1rem;
 }
 
-.container-md {
-  max-width: 860px;  /* 예시: 860px로 제한 */
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
