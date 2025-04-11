@@ -146,11 +146,21 @@ img {
 }
 
 .navbar-custom .navbar-brand {
+  display: flex; /* 로고 + 타이틀 수평 정렬 */
+  align-items: center;
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
   font-size: 1.125rem;
+  font-weight: 800;
+  color: {{ site.navbar-text-col | default: "#404040" }};
 }
+.navbar-logo {
+  height: 2.5rem;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
 
 .navbar-custom .navbar-brand-logo {
   -webkit-transition: padding .5s ease-in-out;
