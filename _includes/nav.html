@@ -1,16 +1,17 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
   <div class="container">
 
-    {%- if site.title-img -%}
-      <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}">
-        <img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/>
-      </a>
-    {%- elsif site.title -%}
-      <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <a class="navbar-brand d-flex align-items-center" href="{{ '' | absolute_url }}">
+      {% if site.title-img %}
+        <span class="navbar-brand-logo">
+          <img alt="{{ site.title }} Logo" src="{{ site.title-img }}" />
+        </span>
+      {% endif %}
+      <span class="ml-2" style="line-height: 1.2;">
         {{ site.title }}<br>
         <span style="font-size: 0.8em; color: #444;">{{ site.subtitle }}</span>
-      </a>
-    {%- endif -%}
+      </span>
+    </a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -24,10 +25,10 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 {%- for childlink in link[1] -%}
-                  {%- for linkparts in childlink %}
+                  {%- for linkparts in childlink -%}
                     <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
                   {%- endfor -%}
-                {%- endfor %}
+                {%- endfor -%}
               </div>
             </li>
           {% else %}
@@ -57,5 +58,5 @@
       </div>
     {% endif %}
 
-  </div> <!-- ⬅️ 여기서 container 닫힘 -->
+  </div> <!-- container 끝 -->
 </nav>
