@@ -1,8 +1,5 @@
 ---
 layout: page
-title: Workshop on Compuatational Nanoelectronics
-subtitle: July 23, 2025, KAIST
-cover-img: /assets/img/cover.jpg
 ---
 
 <br/>
