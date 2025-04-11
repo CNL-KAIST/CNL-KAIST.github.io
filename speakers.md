@@ -16,7 +16,7 @@ title: ''
   <!-- Speaker 2 -->
   <div style="text-align: center; width: 250px;">
     <img src="/assets/img/seokho-square-2.jpg" alt="Samsung" style="width: 150px; height: 150px; border-radius: 50%;">
-    <h3>홍길동 (Samsung)</h3>
+    <h3>홍길동 (SAMSUNG)</h3>
 <!--     <p><strong>"Nanoscale Devices: Bridging Quantum Effects and Next-Generation Electronics"</strong></p> -->
 <!--     <p>A look into how shrinking device dimensions unlock new physics and enable ultra-compact, high-performance technologies.</p> -->
   </div>
@@ -32,7 +32,7 @@ title: ''
   <!-- Speaker 4 -->
   <div style="text-align: center; width: 250px;">
     <img src="/assets/img/jlee.jpg" alt="Jaeheon Lee" style="width: 150px; height: 190px; border-radius: 50%;">
-    <h3>이재현 (Pusan National University)</h3>
+    <h3>이재현 (부산대)</h3>
 <!--     <p><strong>"TCAD: A Simulation Framework for Designing and Optimizing Semiconductor Devices"</strong></p> -->
 <!--     <p>Understanding how Technology Computer-Aided Design enables virtual prototyping from process to performance.</p> -->
   </div>
