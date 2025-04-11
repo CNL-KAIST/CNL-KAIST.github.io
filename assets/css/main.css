@@ -925,3 +925,10 @@ pre {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
+.navbar-custom .container {
+  max-width: 1140px; /* 필요시 1080px ~ 960px도 가능 */
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
