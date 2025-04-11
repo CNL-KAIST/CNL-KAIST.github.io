@@ -3,7 +3,7 @@ layout: page
 title: ''
 ---
 
-일시 : 2025.07.23 (수) 11:00 - 18:00
+일시 : 2025.07.23 (수) 11:00 - 18:00 <br>
 장소 : 카이스트 KI Matrix Hall
 <p>
   <a href="https://www.google.com/maps/place/Korea+Advanced+Institute+of+Science+%26+Technology+(KAIST),+Daejeon/data=!3m1!4b1!4m6!3m5!1s0x35654bb616ae884f:0x9fa607e06759a2c9!8m2!3d36.3721427!4d127.36039!16zL20vMDRiMzU?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank">
