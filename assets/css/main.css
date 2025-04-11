@@ -919,7 +919,7 @@ pre {
 
 .navbar-custom .container,
 .navbar-custom .container-md {
-  max-width: 900px;  /* ← px 단위 추가!! */
+  max-width: 1000px;  /* ← px 단위 추가!! */
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
