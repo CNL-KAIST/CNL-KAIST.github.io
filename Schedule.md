@@ -13,13 +13,13 @@ title: ''
   <tbody>
     <tr>
       <td>11:00–11:30</td>
-      <td><strong>초청연사:</strong> <em>신민철 (카이스트)</em><br>
+      <td><strong>초청연사:</strong> 신민철 (KAIST)<br>
           <span style="font-style: italic;">Quantum Transport in Nanoscale Devices: From Ballistic Conduction to Tunneling Effects</span>
       </td>
     </tr>
     <tr>
       <td>11:30–12:00</td>
-      <td><strong>초청연사:</strong> <em>홍길동 (삼성)</em><br>
+      <td><strong>초청연사:</strong> 홍길동 (SAMSUNG)<br>
           <span style="font-style: italic;">Exploring electron transport phenomena in low-dimensional systems and their implications for modern</span>
       </td>
     </tr>
