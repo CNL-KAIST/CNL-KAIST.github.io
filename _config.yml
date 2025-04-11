@@ -27,7 +27,7 @@ round-avatar: false
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-title-img: "/assets/last.png"
+title-img: "/assets/leg.png"
 
 
 # --- Footer options --- #
