@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Papers
+title: ''
 ---
 
 We invite submissions for our upcoming workshop. Please follow the guidelines below:
