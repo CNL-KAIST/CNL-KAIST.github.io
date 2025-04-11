@@ -82,3 +82,13 @@
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
+
+
+<nav style="display: flex; align-items: center; justify-content: space-between; padding: 10px 30px;">
+  <!-- 로고 -->
+  <div style="flex-shrink: 0;">
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="로고" style="height: 40px;">
+    </a>
+  </div>
+</nav>
