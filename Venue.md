@@ -4,7 +4,7 @@ title: ''
 ---
 
 <strong>일시 :</strong> 2025.07.23 (수) 11:00 - 18:00 <br>
-<strong>장소 :</strong> <a href="https://www.google.com/maps/place/Korea+Advanced+Institute+of+Science+%26+Technology+(KAIST),+Daejeon/data=!3m1!4b1!4m6!3m5!1s0x35654bb616ae884f:0x9fa607e06759a2c9!8m2!3d36.3721427!4d127.36039!16zL20vMDRiMzU?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank">KAIST KI Matrix Hall</a>
+<strong>장소 :</strong> <a href="https://www.google.com/maps/place/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90+KI%EB%B9%8C%EB%94%A9(E4)/data=!4m6!3m5!1s0x35654bc8f5ab6ced:0x683eda38f6c6366d!8m2!3d36.3681871!4d127.3638696!16s%2Fg%2F119tbn3l3?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank">KAIST KI Matrix Hall</a>
 <!-- <p>
   <img src="/assets/img/KAIST_i.png" alt="Map to KAIST" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;">
 </p> -->
