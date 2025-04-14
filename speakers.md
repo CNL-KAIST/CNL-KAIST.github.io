@@ -3,7 +3,7 @@ layout: page
 title: ''
 ---
 
-<!--<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center;">
 
   <!-- Speaker 1 -->
   <div style="text-align: center; width: 250px;">
@@ -37,4 +37,4 @@ title: ''
 <!--     <p>Understanding how Technology Computer-Aided Design enables virtual prototyping from process to performance.</p> -->
   </div>
 
-</div> -->
+</div>
